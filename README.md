@@ -10,15 +10,13 @@
 
 
 
-- 🔭 I’m currently working on **Noisy-Lion Assignment**
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I am currently a Senior Data Analyst at **American Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushikeshkPatel](https://github.com/RushikeshkPatel)
 
-- 💬 Ask me about **Power Bi, Tableau, MS-Excel, MySQL**
+- 💬 Ask me about **Power Bi, Tableau, MS-Excel, MySQL, Python**
 
-- 📫 How to reach me **rushikeshpatel1999@gmail.com**
+- 📫 How to reach me **rushikeshpatel564@gmail.com**
 
 <br/>  
 
